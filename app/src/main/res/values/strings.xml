@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Student Profile App</string>
+    <string name="student_name">Name: kiran reddy</string>
+    <string name="roll_number">Roll Number: A23126552211</string>
+    <string name="course">Course: Computer Science &amp; Engineering</string>
+    <string name="email">Email: kiran.reddy@example.com</string>
+    <string name="show_details">Show Details</string>
+</resources>

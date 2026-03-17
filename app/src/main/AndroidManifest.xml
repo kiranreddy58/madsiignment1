@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    android:background="#E3F2FD">
+
+    <!-- Profile Image -->
+    <ImageView
+        android:id="@+id/profileImage"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@mipmap/ic_launcher"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Name -->
+    <TextView
+        android:id="@+id/name"
+        android:text="Name: Santosh"
+        android:textSize="18sp"
+        android:layout_marginBottom="8dp"/>
+
+    <!-- Roll Number -->
+    <TextView
+        android:id="@+id/roll"
+        android:text="Roll No: 12345"
+        android:textSize="18sp"
+        android:layout_marginBottom="8dp"/>
+
+    <!-- Course -->
+    <TextView
+        android:id="@+id/course"
+        android:text="Course: CSM"
+        android:textSize="18sp"
+        android:layout_marginBottom="8dp"/>
+
+    <!-- Email -->
+    <TextView
+        android:id="@+id/email"
+        android:text="Email: example@gmail.com"
+        android:textSize="18sp"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Button -->
+    <Button
+        android:id="@+id/showBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show Details"/>
+</LinearLayout>
