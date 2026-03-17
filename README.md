@@ -6,7 +6,7 @@ This project is a simple Android application designed to display a student's pro
 ## Final Output
 Below is the final design of the application's user interface, showcasing the clean and modern layout.
 
-![Student Profile Mockup](student_profile_mockup.png)
+![alt text](image.png)
 
 ## What I Have Done
 
